@@ -1,0 +1,27 @@
+{
+  "name": "json_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiivaniiawasthii/Json_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiivaniiawasthii/Json_server/issues"
+  },
+  "homepage": "https://github.com/shiivaniiawasthii/Json_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "jsonserver": "^0.1.6",
+    "nodemon": "^2.0.20"
+  }
+}
