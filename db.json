@@ -1,6 +1,26 @@
 {
-        "todo":[],
+        
+  "cars": [
+        {
+          "id": 1,
+          "brand": "Tata",
+                            "type":"Manual",
+          "year": 2019,
+          "kms": 10000,
+          "Description": "Tata Altroz with all original documents",
+          "Price": 500000
+        },
+        {
+          "id": 2,
+          "brand": "Tata",
+                            "type":"AMT",
+          "year": 2017,
+          "kms": 8000,
+          "Description": "Tata Nexon with all original documents",
+          "Price": 800000
+        }
+      ]
 
-        "product":[{"id":"ab","name":"fgfd","price":100,"date":"cc","dis":"hgh"}]
+       
 
 }
