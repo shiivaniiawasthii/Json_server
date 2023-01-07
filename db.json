@@ -24,6 +24,18 @@
         "wishlisted_cars":[
           
         ],
-        "todo":[{"id":1,"name":"shivani"},{"id":2,"name":"Shishir"}]
+        "todo":
+        [
+          {"id":1,"name":"shivani"},
+        {"id":2,"name":"Shishir"}
+      ],
+      "users":
+      [
+        {
+          "email":"aa@gmail.com",
+          "password":"aa",
+          "name":"aa"
+        }
+      ]
 
 }
