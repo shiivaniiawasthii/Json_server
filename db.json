@@ -29,17 +29,25 @@
           {"id":1,"name":"shivani"},
         {"id":2,"name":"Shishir"}
       ],
-      "users":
-      [
-        {
-          "email":"aa@gmail.com",
-          "password":"aa",
-          "name":"aa"
-        }
-      ],
-      "Tasks":[
-        {"username":"aa","Date":"222","TotalTask":2,"DayTask":5}
-      ]
+      
+        "dogs": [
+          {
+            "id": 1,
+            "name": "Cherry",
+            "age": 2,
+            "place": "Visakhapatnam",
+            "gender": "Male"
+          },
+          {
+            "id": 1,
+            "name": "Tommy",
+            "age": 3,
+            "place": "Banglore",
+            "gender": "Female"
+          }
+        ]
+      
+      
       
 
 }
